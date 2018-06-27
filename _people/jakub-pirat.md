@@ -21,7 +21,7 @@ profiles:
 
 Jméno Příjmení (*1. ledna 1900) je to a to, a tak dál. Sem patří představení člověka, několik odstavců.
 
-**Vzdělání/práce:** Studoval něco, teď dělá něco.
+**Vzdělání/práce:** Studoval něco, teď dělá poslance.
 
 **Politik:** Třeba čemu se věnuje.
 
