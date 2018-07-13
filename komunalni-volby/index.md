@@ -1,15 +1,8 @@
 ---
-layout: komunalni-volby
-title: Komunální volby 2018
-note: Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
-category: praha2018
-candidates:
-  - prvni.leader
-  - jakub.pirat
-  - mistni.predseda
-  - aktivni.priznivec
-description: Text který se může objevyt v google. 
-keywords: komunalní volby, kandidátka, program, volební program, čelo kanditátky, leader, pirátská kandiátka, pirátský program 
+layout: communal-elections
+title: Komunální volby v Praze
+campaignCategoryUid: praha2018
+candidateListUid: radnice # uid z `_candidates/radnice.md`
 ---
 
 Úvodní text. Např vysvětlení koalice, podpory.

@@ -1,25 +1,17 @@
 ---
 layout: default
-rbar: fb, calendar
+rbar: 
+   - fb
+   - calendar
 ---
 
-{% if site.homepageBanner.display %}
-<div class="row c-hp-banner">
-  <div class="small-12 columns">
-    <a href="{{ site.homepageBanner.link }}" title="{{ site.homepageBanner.title }}">
-      {% capture img %}{% asset '{{ site.homepageBanner.image.default }}' magick:resize='1135x' @path %}{% endcapture %}
-      {% if site.homepageBanner.breakpoint %}
-        <picture>
-          <source media="(min-width: {{ site.homepageBanner.breakpoint }}px)" srcset="{{ img }}">
-          <img src="{% asset '{{ site.homepageBanner.image.mobile }}' magick:resize='{{ site.homepageBanner.breakpoint +"px" }}' @path %}" alt="{{ site.homepageBanner.title }}">
-        </picture>
-      {% else %}
-        <img src="{{ img }}" alt="{{ site.homepageBanner.title }}">
-      {% endif %}
-    </a>
-  </div>
-</div>
-{% endif %}
+{% include homepage/banner.html 
+   link='/komunalni-volby/'
+   title='Komunální volby 2018'
+   default='banner-default.jpg'
+   mobile='banner-mobile.jpg'
+   breakpoint=640
+%}
 
 <div class="row">
   <div class="medium-12 large-8 columns">
