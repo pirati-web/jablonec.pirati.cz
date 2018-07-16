@@ -22,10 +22,11 @@ organization:
   email: ondrej.novosad@pirati.cz
   phone: +420 777 123 456 789
   address: |
-    Jablonecká, 
+    Pixel - Pirátské centrum Jablonec n/N
+    Generála Mrázka 413/4 
     468 01 Jablonec nad Nisou
-  residenceImg:
-  mapLink: https://mapy.cz/zakladni?vlastni-body&x=14.4418976&y=50.0863156&z=18&ut=PiCe&uc=9h2F.xXwtn&ud=ulice%20%C5%98eho%C5%99ova%20943%2F19%2C%20Praha%2C%20130%2000%2C%20okres%20Hlavn%C3%AD%20m%C4%9Bsto%20Praha
+  #residenceImg:
+  mapLink: https://mapy.cz/zakladni?x=15.1709248&y=50.7244738&z=18&source=firm&id=12829995
   redmineLink: https://redmine.pirati.cz/projects
 
 calendar:
@@ -39,7 +40,7 @@ calendar:
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/ceska.piratska.strana/ 
+  profilePage: https://www.facebook.com/piratijablonec/ 
   appId: 1526197851008996
 
 twitter:

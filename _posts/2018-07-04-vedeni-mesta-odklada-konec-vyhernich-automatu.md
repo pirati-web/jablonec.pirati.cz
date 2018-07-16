@@ -6,7 +6,7 @@ layout: post
 title: Vedení města odkládá konec výherních automatů
 author: Helena Vondráková
 #authorId: jakub.pirat    # uid nekoho z _people (nepoviné)
-image: posts/obrazek-u-tohoto-postu.jpg
+image: posts/2018-07-04-vedeni-mesta-odklada-konec-vyhernich-automatu.jpg
 ---
 **Piráti podporovali konání referenda pro zákaz výherních automatů v Jablonci nad Nisou. Téma hazardu, které v Jablonci řešila obecní vyhláška nulovou tolerancí, prolomilo před třemi lety současné vedení města. V lednovém referendu se pro bezodkladný zákaz automatů vyslovilo více než dvanáct tisíc voličů. Přesto vedení města rozhodlo, že automaty v Jablonci zůstanou ještě další tři roky.**
 

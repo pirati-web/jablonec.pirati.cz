@@ -11,7 +11,7 @@ Zajímá vás co piráti dělají? Ozvěte se Jakubu Pirátovy nebo přijďte k 
 
 Chcete přístup k pirátskym systémum? Registrujte se na [nalodění](https://nalodeni.pirati.cz/).
 
-Financí dary můžete posílat na [dary](https://dary.pirati.cz). 
+Finanční dary můžete posílat na [dary](https://dary.pirati.cz). 
 
 Stránky našeho kraje jsou [https://liberecky.pirati.cz](https://liberecky.pirati.cz)
 

@@ -6,6 +6,7 @@ category:
   - clenove
   - pms
   - kandidat-obec
+  - kontaktni_osoba
 ordpms: 5
 ordclenove: 5
 description: architekt a urbanista
