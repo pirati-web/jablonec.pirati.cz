@@ -16,6 +16,5 @@ candidateListUid: radnice # uid z `_candidates/radnice.md`
 
 ---
 
-
-> "Vyhrajeme volby", říká jablonecký leader.
+> "Vyhrajeme volby", říká jablonecký leader Jan Polák.
 
