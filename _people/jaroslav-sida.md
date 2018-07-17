@@ -6,8 +6,8 @@ category:
   - clenove
   - pms
   - kandidat-obec
-ordpms: 4
-ordclenove: 4
+ordpms: 3
+ordclenove: 3
 description: právník a podnikatel
 img: people/jaroslav-sida.jpg # zakomentuj radek dokud není fotka
 mail:

@@ -6,8 +6,8 @@ category:
   - clenove
   - pms
   - kandidat-obec
-ordpms: 3
-ordclenove: 3
+ordpms: 4
+ordclenove: 4
 description: ekonomka
 img: people/jarmila-valesova.jpg # zakomentuj radek dokud není fotka
 mail:

@@ -7,7 +7,7 @@ residence: yes
 
 ## Přidejte se
 
-Zajímá vás co piráti dělají? Ozvěte se Jakubu Pirátovy nebo přijďte k nám na schůzi kterou pořádáme v Jablonci.
+Zajímá vás co piráti dělají? Ozvěte se [Ondřejovi Novosadovi](/lide/ondrej-novosad/) nebo přijďte k nám na schůzi kterou pořádáme v Jablonci.
 
 Chcete přístup k pirátskym systémum? Registrujte se na [nalodění](https://nalodeni.pirati.cz/).
 

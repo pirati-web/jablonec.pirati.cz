@@ -14,14 +14,14 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: architekt a urbanista
     age: 35
     party: nezávislý/bez politické příslušnosti
-  - uid: jarmila.valesova
-    profession: ekonomka
-    age: 35
-    party: nezávislá/bez politické příslušnosti
   - uid: jaroslav.sida
     age: 39
     profession: právník a podnikatel, správce a spolumajitel pivovaru
     party: Piráti
+  - uid: jarmila.valesova
+    profession: ekonomka
+    age: 35
+    party: nezávislá/bez politické příslušnosti
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb

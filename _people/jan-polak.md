@@ -20,4 +20,4 @@ profiles:
 
 Jan Polák (40 let) člen Pirátské strany, předseda MS Jablonec
 
-světoběžník, cestovatel, transformační leader, podnikatel, jednatel studijní a cestovní agentury # zobrazuje se v lide
+světoběžník, cestovatel # zobrazuje se v lide
