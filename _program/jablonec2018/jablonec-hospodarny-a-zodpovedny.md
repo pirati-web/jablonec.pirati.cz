@@ -26,7 +26,6 @@ Město je účastníkem řízení při umísťování každé stavby na svém ú
 ### Příklad OC Central
 OC Central vznikl na městských pozemcích z impulzu vedení města. Špatně postavený záměr monofunkčního bloku byl následně špatně zasmluvněn s minimálními právy samosprávy. Přesto mohlo město v několika řízeních uplatnit své požadavky. Projekt se připravoval řadu let a město mohlo čas využít pro řešení architektonické podoby přilehlých veřejných prostranství. Předprostor obchodního centra mohl být plynule propojen s předprostorem domu vína; v ulici Komenského, Máchova i Generála Mrázka mohlo být stromořadí a řada dalších detailů, které mohly alespoň částečně kompenzovat tento hrubý zásah do struktury našeho města. 
 
-
 ## PŘÍRODNÍ HODNOTY
 Silnou stránkou města je blízká a dostupná okolní krajina. Tato území je nutné nezastavovat a rozvíjet v jejich přírodním charakteru. Právě tak si Jablonec uchová svou atraktivitu jak pro své obyvatele, tak pro turisty a právě díky této hodnotě může být lákavým místem pro život i rekreaci. Na nezastavění těchto míst tak záleží i jeho ekonomická výkonost.
 
@@ -38,7 +37,6 @@ Cílem rozvoje města by měla být také hospodárnost a efektivita jeho fungov
 
 ### Příklad Databáze vnitřních rezerv města
 Město musí mít zmapované své vnitřní rezervy a na základě urbanistické koncepce stanovit možnosti a priority jejich zástavby. Jejich nabídka by měla být uživatelsky přehledná a elektronicky jednoduše dostupná. Součástí nabídky by mělo být srozumitelné vymezení co a za jakých podmínek je v daném místě možné realizovat.
-
 
 # participativním přístupem
 Budeme spolupracovat s obyvateli při formulaci rozvojových záměrů a zadání. Stojíme o vytvoření participativního rozpočtu.
