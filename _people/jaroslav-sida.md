@@ -2,12 +2,12 @@
 uid: jaroslav.sida
 name:     Jaroslav Šída   	# běžně používáné jméno
 fullname: Mgr. Jaroslav Šída   	# jméno s tituly etc.
+titles:
+  before: Mgr.
 category:
   - clenove
-  - pms
   - kandidat-obec
-ordpms: 3
-ordclenove: 3
+ordclenove: 1
 description: právník a podnikatel
 img: people/jaroslav-sida.jpg # zakomentuj radek dokud není fotka
 mail:
@@ -18,6 +18,8 @@ profiles:
   #twitter: https://twitter.com/uzivatel.na.twitteru
 ---
 
-Jaroslav Šída (39 let), člen Pirátské strany, právník a podnikatel, správce a spolumajitel pivovaru
+39 let, právník a podnikatel, správce a spolumajitel pivovaru
 
+člen Pirátské strany
 
+otec dvou dětí

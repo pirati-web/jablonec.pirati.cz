@@ -2,14 +2,16 @@
 uid: ondrej.novosad
 name:     Ondřej Novosad   	# běžně používáné jméno
 fullname: Ing. arch. Ondřej Novosad   	# jméno s tituly etc.
+titles:
+  before: Ing. arch.
 category:
-  - clenove
   - pms
   - kandidat-obec
   - kontaktni_osoba
-ordpms: 5
-ordclenove: 5
-description: architekt a urbanista
+ordpms: 2
+description: 
+  architekt a urbanista<br/>
+  místopředseda MS Jablonec n.N.
 img: people/ondrej-novosad.jpg # zakomentuj radek dokud není fotka
 mail:
   - ondrej.novosad@pirati.cz
@@ -19,6 +21,8 @@ profiles:
   #twitter: https://twitter.com/uzivatel.na.twitteru
 ---
 
-Ondřej Novosad (35 let), člen Pirátské strany, místopředseda MS Jablonec
+35 let, architekt a urbanista
 
+člen České pirátské strany, místopředseda MS Jablonec n. N.
 
+otec dvou synů

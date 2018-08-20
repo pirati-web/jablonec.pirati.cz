@@ -2,14 +2,14 @@
 uid: vladimir.opatrny
 name:     Vladimír Opatrný   	# běžně používáné jméno
 fullname: Mgr. Vladimír Opatrný   	# jméno s tituly etc.
+titles:
+  before: Mgr.
 category:
-  - clenove
-  - pms
   - kandidat-obec
-ordpms: 6
-ordclenove: 6
+  - neclenove
+ordneclenove: 1
 description: knihkupec, podnikatel
-img: people/vladimir-opatrny # zakomentuj radek dokud není fotka
+img: people/vladimir-opatrny.jpg # zakomentuj radek dokud není fotka
 mail:
   - vladimir.opatrny@pirati.cz
 profiles:
@@ -18,4 +18,8 @@ profiles:
   #twitter: https://twitter.com/uzivatel.na.twitteru
 ---
 
-Vladimír Opatrný (40 let), nezávislý/bez politické příslušnosti
+40 let, knihkupec, podnikatel, člen spolku PLAC
+
+nezávislý kandidát za Piráty
+
+otec dvou dětí

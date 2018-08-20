@@ -3,12 +3,12 @@ uid: jan.polak
 name:     Jan Polák  	# běžně používáné jméno
 fullname: Jan Polák  	# jméno s tituly etc.
 category:
-  - clenove
   - pms
   - kandidat-obec
 ordpms: 1
-ordclenove: 1
-description: světoběžník, cestovatel # zobrazuje se v lide
+description:
+  světoběžník, podnikatel<br/>
+  předseda MS Jablonec n.N.
 img: people/jan-polak.jpg # zakomentuj radek dokud není fotka
 mail:
   - jan.polak@pirati.cz
@@ -17,7 +17,9 @@ profiles:
   #googleplus: https://plus.google.com/+uzivatel.na.googleplus
   #twitter: https://twitter.com/uzivatel.na.twitteru
 ---
+ 
+40 let, světoběžník, podnikatel
 
-Jan Polák (40 let) člen Pirátské strany, předseda MS Jablonec
+člen Pirátské strany, předseda MS Jablonec n.N.
 
-světoběžník, cestovatel # zobrazuje se v lide
+otec dvou dětí

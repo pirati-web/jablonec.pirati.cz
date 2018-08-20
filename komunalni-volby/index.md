@@ -6,21 +6,48 @@ candidateListUid: radnice # uid z `_candidates/radnice.md`
 ---
 
 # JABLONEC KRÁSNÝ A PŘÍVĚTIVÝ
-* [kultivací veřejného prostoru](/komunalni-volby/program/jablonec2018/jablonec-krasny-a-privetivy#kultivací-veřejného-prostoru) 
-* [koncepční bytovou politikou](/komunalni-volby/program/jablonec2018/jablonec-krasny-a-privetivy#koncepční-bytovou-politikou)
-* [podporou místních komunit](/komunalni-volby/program/jablonec2018/jablonec-krasny-a-privetivy#podporou-místních-komunit)
 
-# JABLONEC PROPOJENÝ A PROSTUPNÝ
-* [tvorbou zelených cest městem](/komunalni-volby/program/jablonec2018/jablonec-propojeny-a-prostupny#tvorbou-zelených-cest-městem)
-* [spravedlivým rozdělením uličního prostoru](/komunalni-volby/program/jablonec2018/jablonec-propojeny-a-prostupny#spravedlivým-rozdělením-uličního-prostoru)
-* [solidaritou s potřebnými](/komunalni-volby/program/jablonec2018/jablonec-propojeny-a-prostupny#solidaritou-s-potřebnými)
+### Kultivací veřejného prostoru
 
-# JABLONEC HOSPODÁRNÝ A ZODPOVĚDNÝ
-* [odborným rozhodováním](/komunalni-volby/program/jablonec2018/jablonec-hospodarny-a-zodpovedny#odborným-rozhodováním)
-* [participativním přístupem](/komunalni-volby/program/jablonec2018/jablonec-hospodarny-a-zodpovedny#participativním-přístupem)
-* [transparentní správou](/komunalni-volby/program/jablonec2018/jablonec-hospodarny-a-zodpovedny#transparentní-správou)
+Veřejný prostor budeme přizpůsobovat dětem a seniorům. Díky tomu bude komfortní i pro všechny ostatní.
+
+### Koncepční bytovou politikou
+
+Vytvoříme koncepci dostupného a sociálního bydlení ve městě, rozšíříme nabídku městských bytů pro rodiny s dětmi či rodiče samoživitele.
+
+### Podporou místních komunit
+
+Budeme podporovat sousedské, kulturní či podnikatelské komunity, které tvoří živé město, udržují v něm aktivní obyvatele a lákají nové.
 
 ---
 
-> "Vyhrajeme volby", říká jablonecký leader Jan Polák.
+# JABLONEC PROPOJENÝ A PROSTUPNÝ
+
+### Tvorbou zelených cest městem
+
+Budeme vytvářet a propojovat bezpečné a pohodlné cesty skrz město až do volné krajiny; podél vody, navazováním parků, výsadbou stromů i celých alejí.
+
+### Spravedlivým rozdělením uličního prostoru
+
+Budeme budovat cyklistickou infrastrukturu a pečovat o bezbariérový pohyb chodců i kočárků.
+
+### Solidaritou s potřebnými
+
+Navážeme na podporu sociálních služeb, zejména v terénní formě, s respektem k potřebám jednotlivců. Budeme usilovat o společensky propojené a sociálně prostupné město.
+
+---
+
+# JABLONEC HOSPODÁRNÝ A ZODPOVĚDNÝ
+
+### Odborným rozhodováním
+
+Budeme rozhodovat na základě odborných názorů. Zavedeme funkci městského architekta.
+
+### Participativním přístupem
+
+Budeme spolupracovat s obyvateli při formulaci rozvojových záměrů a zadání. Stojíme o vytvoření participativního rozpočtu.
+
+### Transparentní správou
+
+Zavedeme rozklikávací rozpočet, přístupné veřejné zakázky, dohledatelné dokumenty městských orgánů a společností.
 

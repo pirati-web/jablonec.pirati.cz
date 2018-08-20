@@ -18,9 +18,9 @@ administrator:
 organization:
   name: Piráti Jablonec nad Nisou, místní sdružení
   shortName: Piráti Jablonec nad Nisou
-  contactUid: ondrej.novosad
-  email: ondrej.novosad@pirati.cz
-  phone: +420 777 123 456 789
+  contactUid: veronika.vavrinova
+  email: veronika.vavrinova@pirati.cz
+  phone: +420 602 801 000
   address: |
     Pixel - Pirátské centrum Jablonec n/N
     Generála Mrázka 413/4 
@@ -146,7 +146,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.4.0/gems/jekyll-theme-pirati-5.2.2/_sass 
+    - vendor/bundle/ruby/2.4.0/gems/jekyll-theme-pirati-6.1.2/_sass 
     - assets/css
     - assets/fonts
     - assets/video

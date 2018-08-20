@@ -7,9 +7,9 @@ residence: yes
 
 ## Přidejte se
 
-Zajímá vás co piráti dělají? Ozvěte se [Ondřejovi Novosadovi](/lide/ondrej-novosad/) nebo přijďte k nám na schůzi kterou pořádáme v Jablonci.
+Zajímá vás co piráti dělají? Ozvěte se [Veronice Vavřinové](/lide/veronika-vavrinova/) nebo [Ondřejovi Novosadovi](/lide/ondrej-novosad/) nebo přijďte k nám na schůzi, které pořádáme pravidelně v Jablonci.
 
-Chcete přístup k pirátskym systémum? Registrujte se na [nalodění](https://nalodeni.pirati.cz/).
+Chcete přístup k pirátským systémum? Registrujte se na [nalodění](https://nalodeni.pirati.cz/).
 
 Finanční dary můžete posílat na [dary](https://dary.pirati.cz). 
 
