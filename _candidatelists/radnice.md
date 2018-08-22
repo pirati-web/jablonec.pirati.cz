@@ -14,14 +14,17 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: architekt a urbanista
     age: 35
     party: nezávislý/ bez politické příslušnosti
+
   - uid: jaroslav.sida
     age: 39
     profession: právník a podnikatel, správce a spolumajitel pivovaru
     party: Piráti
+
   - uid: jarmila.valesova
     profession: ekonomka
     age: 35
-    party: nezávislá/bez politické příslušnosti
+    party: Piráti
+
   - uid: ondrej.novosad
     age: 35
     profession: architekt a urbanista
@@ -34,9 +37,9 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     party: Piráti
     
   - uid: pavel.grunfeld
-    age: 28
+    age: 37
     profession: jednatel firmy , podnikatel
-    party: Piráti
+    party: nezávislý/ bez politické příslušnosti
     
   - uid: petr.bukvic
     age: 39
@@ -89,7 +92,7 @@ tail: # zbytek kandidatky
   - name: Martin Drbohlav
     age: 31
     profession: OSVČ
-    party: bez politické příslušnosti
+    party: Česká pirátská strana
   - name: MgA. Jan Picko
     age: 37
     profession: učitel

@@ -21,7 +21,7 @@ profiles:
 
 35 let, ekonomka, podnikatelka
 
-nezávislá kandidátka za Piráty
+členka České pirátské strany
 
 matka dvou dcer
 

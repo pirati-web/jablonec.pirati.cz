@@ -7,11 +7,11 @@ residence: yes
 
 ## Přidejte se
 
-Zajímá vás co piráti dělají? Ozvěte se [Veronice Vavřinové](/lide/veronika-vavrinova/) nebo [Ondřejovi Novosadovi](/lide/ondrej-novosad/) nebo přijďte k nám na schůzi, které pořádáme pravidelně v Jablonci.
+Zajímá Vás, co Piráti dělají? Ozvěte se [Veronice Vavřinové](/lide/veronika-vavrinova/) nebo [Ondřejovi Novosadovi](/lide/ondrej-novosad/) nebo přijďte k nám na schůzi, které pořádáme pravidelně v Jablonci.
 
-Chcete přístup k pirátským systémum? Registrujte se na [nalodění](https://nalodeni.pirati.cz/).
+Chcete přístup k pirátským systémům? Registrujte se na [nalodění](https://nalodeni.pirati.cz/).
 
 Finanční dary můžete posílat na [dary](https://dary.pirati.cz). 
 
-Stránky našeho kraje jsou [https://liberecky.pirati.cz](https://liberecky.pirati.cz)
+Stránky našeho kraje naleznete na [https://liberecky.pirati.cz](https://liberecky.pirati.cz)
 
