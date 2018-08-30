@@ -1,7 +1,7 @@
 ---
 title: Kandidátka na radnici
 uid: radnice
-# number: 13 # číslo kandidátky odkomentujte až bude známé
+number: 2 # číslo kandidátky odkomentujte až bude známé
 leader:
   uid: jan.polak
   age: 40
