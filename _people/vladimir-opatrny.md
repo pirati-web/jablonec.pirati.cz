@@ -11,9 +11,9 @@ ordneclenove: 1
 description: knihkupec, podnikatel
 img: people/vladimir-opatrny.jpg # zakomentuj radek dokud není fotka
 mail:
-  - vladimir.opatrny@pirati.cz
-profiles:
-  facebook: https://www.facebook.com/vladimir.opatrny.5  # pokud nema, staci smazat tuto radku
+  - opatrny@serius.cz
+#profiles:
+  #facebook: https://www.facebook.com/vladimir.opatrny.5  # pokud nema, staci smazat tuto radku
   #googleplus: https://plus.google.com/+uzivatel.na.googleplus
   #twitter: https://twitter.com/uzivatel.na.twitteru
 ---

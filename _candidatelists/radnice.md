@@ -34,7 +34,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: vladimir.opatrny
     age: 40
     profession: knihkupec, podnikatel
-    party: Piráti
+    party: nezávislý/ bez politické příslušnosti
     
   - uid: pavel.grunfeld
     age: 37
@@ -135,7 +135,7 @@ tail: # zbytek kandidatky
     party: bez politické příslušnosti
   - name: Jan Gajdács
     age: 29
-    profession: nezaměstnaný, ped. pracovník
+    profession: pedagogický pracovník
     party: bez politické příslušnosti
   - name: Ing. arch. Eliška Müllerová
     age: 26
