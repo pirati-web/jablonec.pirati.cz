@@ -29,6 +29,7 @@ organization:
   mapLink: https://mapy.cz/zakladni?x=15.1709248&y=50.7244738&z=18&source=firm&id=12829995
   redmineLink: https://redmine.pirati.cz/projects
 
+
 calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
   # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.

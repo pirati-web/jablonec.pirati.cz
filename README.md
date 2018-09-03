@@ -1,13 +1,11 @@
 # jablonec.pirati.cz
 
-Web jabloneckých pirátů ... 
+Web jabloneckých pirátů - https://jablonec.pirati.cz
 Spravuje Marek Förster, marek.forster@pirati.cz
 
 ---
+
 vše ostatní převzato z example.pirati.cz
-
-
-
 
 # example.pirati.cz
 
