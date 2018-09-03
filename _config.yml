@@ -88,6 +88,8 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-environment-variables
+  - jekyll-redirect-from
 paginate_path: "/aktuality/:num/"
 paginate: 11
 

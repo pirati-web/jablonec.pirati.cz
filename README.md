@@ -1,6 +1,6 @@
 # jablonec.pirati.cz
 
-Web jabloneckých pirátů - https://jablonec.pirati.cz
+Web jabloneckých pirátů - https://jablonec.pirati.cz , https://www.jablonec.pirati.cz
 Spravuje Marek Förster, marek.forster@pirati.cz
 
 ---
