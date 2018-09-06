@@ -9,7 +9,7 @@ category:
   - kandidat-obec
 ordpms: 10
 ordclenove: 10
-description: architekta a urbanistka
+description: architektka a urbanistka
 img: people/ida-chuchlikova.jpg # zakomentuj radek dokud není fotka
 mail:
   - ida.chuchlikova@pirati.cz
