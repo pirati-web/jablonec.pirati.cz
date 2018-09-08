@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "PIXEL - Pirátské centrum",
+        "id": 1,
+        "category": "A",
+        "description": "Kontaktní a komunitní centrum pro liberecký kraj",
+        "image": "https://jablonec.pirati.cz/assets/a9b2c5-fdf389912cb9c41ce337130c1cd6da060551ab7a48aef7d1339b0faa55a157cf.jpg"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15.170402526855467,
+              50.72492063757655
+            ],
+            [
+              15.170493721961973,
+              50.72492063757655
+            ],
+            [
+              15.170517861843107,
+              50.72500383739319
+            ],
+            [
+              15.17041862010956,
+              50.725010629208434
+            ],
+            [
+              15.170402526855467,
+              50.72492063757655
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
