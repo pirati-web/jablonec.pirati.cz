@@ -6,7 +6,7 @@ layout: post
 title: Piráti nabízí odborníky a komplexní řešení pro Jablonec
 author: Helena Vondráková
 #authorId: jakub.pirat    # uid nekoho z _people (nepoviné)
-image: posts/obrazek-u-tohoto-postu.jpg
+image: posts/2018-06-27-pirati-nabizi-odborniky-a-komplexni-reseni-pro-jablonec.jpg
 ---
 **Pirátský koráb vyplouvá do komunálních voleb v Jablonci nad Nisou se silnou posádkou a komplexním programem. Řada kandidátů se do Jablonce vrátila se zkušenostmi nabytými v jiných městech i zahraničí. Svůj zájem o podobu a fungování města prokázali kandidáti ve svých občanských aktivitách. Setkat se s nimi můžete již tuto sobotu na akci “Kormidlo směrem prázdniny” u jablonecké přehrady.**
 
