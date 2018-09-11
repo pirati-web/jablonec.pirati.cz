@@ -12,7 +12,7 @@ Besedy, workshopy, promítání, přednášky či pravidelné schůzky s poslanc
 
 > “PIXEL bude smysluplný, bude - li živým prostorem nejen pro nás, ale i pro ty, kteří nám fandí a chtějí se na prosazování pirátského programu aktivně spolupodílet, nebo rezonují s pirátskými idejemi a chtějí se s námi blíže seznámit. Proto se v programu chceme zaměřit nejen na členskou základnu, ale i na aktivity, které přilákají cílové skupiny, které chceme oslovit,” - uvedla Ida Chuchlíková, garantka Pixelu.
 
-Mezi plánovanými aktivitami centra je například debatní kroužek pro středoškoláky, nebo zasedání Rady starších, či blok s názvem Pirátská ženská síla, která má do Pixelu vnášet nový temperament. “Program v Pixelu bude různorodý. Chceme si především uchovat si naší jedinečnost v tom, že můžeme brát věci s nadhledem, šarmem a vtipem,” dodává Ida Chuchlíková.
+Mezi plánovanými aktivitami centra je například debatní kroužek pro středoškoláky, nebo zasedání Rady starších, či blok s názvem Pirátská ženská síla, která má do Pixelu vnášet nový temperament. “Program v Pixelu bude různorodý. Chceme si především uchovat naší jedinečnost v tom, že můžeme brát věci s nadhledem, šarmem a vtipem,” dodává Ida Chuchlíková.
 
 Pixel bude sloužit jako kontaktní místo pro schůzky Pirátů a veřejnosti. Občané se budou moci přijít informovat o novinkách z poslanecké sněmovny nebo konzultovat problémy. Také zde budou probíhat například večery s deskovými hrami, promítání dokumentů s komentářem, zajímavé besedy, workshopy nebo přednášky zajímavých hostů.
 
