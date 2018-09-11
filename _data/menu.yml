@@ -33,11 +33,15 @@ bottom:
   - class: small-12 medium-4
     title: Připoj se
     links:
+      - link: https://nalodeni.pirati.cz
+        name: Staň se Pirátem
       - link: /kontakt/
         name: Kontakty
   - class: small-12 medium-4
     title: Makáme
     links:
+      - link: /lepsi-jablonec/
+        name: Lepší Jablonec
       - link: /lide/
         name: Lidé
       - link: /komunalni-volby/

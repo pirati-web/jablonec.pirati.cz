@@ -23,6 +23,6 @@ Budování Pixelu probíhalo od května do srpna a svou rukou k dílu příspěl
 ![Lepší Jablonec - Křest knihy](/assets/img/posts/2018-09-04-piratske-centrum-pixel-v-jablonci-otevrelo-dvere-verejnosti-krest-knihy.jpg)
 
 Na slavnostním otevření pokřtili Piráti ještě teplou knihu s názvem Lepší Jablonec. Tu autoři představí veřejnosti na první akci v Pixelu v úterý, 18.9.2018, v 17:30.
-[Zde si ji můžete stáhnout ve formátu PDF](/assets/pdf/lepsi_jablonec_web_jednostrany.pdf).
+Více informací o knize, případně odkaz k jejímu stažení naleznete [zde](/lepsi-jablonec/).
 
 Pixel najdete na dohled od radnice, v ulici Generála Mrázka 413/4, vedle La Kavárny. Kalendář akcí a aktuality potom na facebooku “Pirátské centrum Pixel".

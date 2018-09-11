@@ -43,3 +43,8 @@ Budeme spolupracovat s obyvateli při formulaci rozvojových záměrů a zadán�
 
 #### [transparentní správou](/komunalni-volby/program/jablonec2018/jablonec-hospodarny-a-zodpovedny#transparentní-správou)
 Zavedeme rozklikávací rozpočet, přístupné veřejné zakázky, dohledatelné dokumenty městských orgánů a společností.
+
+# LEPŠÍ JABLONEC
+
+Programová vize jabloneckých Pirátů pro lepší život v Jablonci n/N shrnutá ve stotřicetistránkové knize bude představena v úterý 18. září 2018 v 17:30 v nově otevřeném Pirátském centru PIXEL v Jablonci nad Nisou.
+Více informací o knize naleznete [zde](/lepsi-jablonec/).
