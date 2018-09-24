@@ -31,12 +31,14 @@ main:
 
 bottom:
   - class: small-12 medium-4
-    title: Připoj se
+    title: Zapoj se
     links:
       - link: https://nalodeni.pirati.cz
         name: Staň se Pirátem
       - link: /kontakt/
         name: Kontakty
+      - link: /ke-stazeni/
+        name: Ke stažení
   - class: small-12 medium-4
     title: Makáme
     links:
