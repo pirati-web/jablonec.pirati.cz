@@ -5,6 +5,8 @@ campaignCategoryUid: jablonec2018
 candidateListUid: radnice # uid z `_candidates/radnice.md`
 ---
 
+[Interaktivní mapa záměrů](/komunalni-volby/mapa-zameru)
+
 # JAKÝ CHTĚJÍ PIRÁTI JABLONEC:
 
 ## KRÁSNÝ A PŘÍVĚTIVÝ

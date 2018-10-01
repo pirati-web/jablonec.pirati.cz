@@ -1,0 +1,21 @@
+---
+layout: default
+title: Kandidující obce
+
+---
+
+<div class="c-intention-map">
+  <header class="c-intention-map__header-wrap">
+    <h1 itemprop="headline" class="c-page-title c-intention-map__header">Kandidující obce</h1>
+  </header>
+
+  <!-- Article -->
+  <article itemtype="http://schema.org/BlogPosting" itemscope="">
+    <link itemprop="mainEntityOfPage" href="{{ page.url }}">
+    {% if site.env.MAPBOX_ACCESS_TOKEN %}
+      <!--- <div class="__vue-root" data-app="IntentionMap" data-accesstoken="{{ site.env.MAPBOX_ACCESS_TOKEN }}" data-dataset="https://raw.githubusercontent.com/pirati-web/jablonec.pirati.cz/master/komunalni-volby/mapa-zameru/map5.geojson" data-ideaform="https://goo.gl/forms/wKSPmWNDzgRiUxLN2" data-colors=""></div> --->
+      <div class="__vue-root" data-app="IntentionMap" data-accesstoken="{{ site.env.MAPBOX_ACCESS_TOKEN }}" data-dataset="{{ 'assets/geojson/mesta.geojson' | relative_url }}" data-ideaform="https://goo.gl/forms/wKSPmWNDzgRiUxLN2" data-colors=""></div>
+    {% endif %}
+  </article>
+  <!-- /Article -->
+</div>
