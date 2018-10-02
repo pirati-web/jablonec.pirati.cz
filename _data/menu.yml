@@ -33,21 +33,23 @@ bottom:
   - class: small-12 medium-4
     title: Zapoj se
     links:
-      - link: https://nalodeni.pirati.cz
-        name: Staň se Pirátem
-      - link: /kontakt/
-        name: Kontakty
       - link: /ke-stazeni/
         name: Ke stažení
+      - link: /lide/
+        name: Lidé
+      - link: /kontakt/
+        name: Kontakty
+      - link: https://nalodeni.pirati.cz
+        name: Staň se Pirátem
   - class: small-12 medium-4
     title: Makáme
     links:
+      - link: /komunalni-volby/mapa-zameru/
+        name: Interaktivni mapa záměrů
       - link: /lepsi-jablonec/
         name: Lepší Jablonec
-      - link: /lide/
-        name: Lidé
       - link: /komunalni-volby/
-        name: Volby
+        name: Komunální volby
       - link: /aktuality/
         name: Aktuality
   - class: small-12 medium-4

@@ -5,7 +5,14 @@ campaignCategoryUid: jablonec2018
 candidateListUid: radnice # uid z `_candidates/radnice.md`
 ---
 
-[Interaktivní mapa záměrů](/komunalni-volby/mapa-zameru)
+<div class="pce-im-teaser-big">
+    <a href="/komunalni-volby/mapa-zameru/" title="Interaktivní mapa pirátských plánů" class="pce-im-teaser-big__wrap" style="background: url({% asset 'intention-map/intention-map-background.jpg' magick:resize='1122x' magick:crop='1122x300+0+0' magick:gravity='center' @path %}) center no-repeat;">
+        <h1 class="pce-im-teaser-big__headline">
+            <span class="pce-im-teaser-big__headline-caption">Interaktivní mapa pirátských záměrů</span>
+            <div href="{{ '/komunalni-volby/mapa-zameru/' | relative_url }}" class="button pce-im-teaser-big__headline-button">Zobrazit</div>
+        </h1>
+    </a>
+</div>
 
 # JAKÝ CHTĚJÍ PIRÁTI JABLONEC:
 
