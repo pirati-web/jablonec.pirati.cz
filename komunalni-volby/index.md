@@ -4,7 +4,7 @@ title: Komunální volby v Jablonci nad Nisou
 campaignCategoryUid: jablonec2018
 candidateListUid: radnice # uid z `_candidates/radnice.md`
 ---
-
+<!---
 <div class="pce-im-teaser-big">
     <a href="/komunalni-volby/mapa-zameru/" title="Interaktivní mapa pirátských plánů" class="pce-im-teaser-big__wrap" style="background: url({% asset 'intention-map/intention-map-background.jpg' magick:resize='1122x' magick:crop='1122x300+0+0' magick:gravity='center' @path %}) center no-repeat;">
         <h1 class="pce-im-teaser-big__headline">
@@ -13,6 +13,7 @@ candidateListUid: radnice # uid z `_candidates/radnice.md`
         </h1>
     </a>
 </div>
+--->
 
 # JAKÝ CHTĚJÍ PIRÁTI JABLONEC:
 

@@ -44,8 +44,8 @@ bottom:
   - class: small-12 medium-4
     title: Makáme
     links:
-      - link: /komunalni-volby/mapa-zameru/
-        name: Interaktivni mapa záměrů
+      #- link: /komunalni-volby/mapa-zameru/
+      #  name: Interaktivni mapa záměrů
       - link: /lepsi-jablonec/
         name: Lepší Jablonec
       - link: /komunalni-volby/
