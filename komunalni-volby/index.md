@@ -15,6 +15,8 @@ candidateListUid: radnice # uid z `_candidates/radnice.md`
 </div>
 --->
 
+## [Povolební strategie Pirátů Jablonec nad Nisou](/komunalni-volby/povolebni-strategie/)
+
 # JAKÝ CHTĚJÍ PIRÁTI JABLONEC:
 
 ## KRÁSNÝ A PŘÍVĚTIVÝ
