@@ -4,6 +4,8 @@ title: Ke stažení
 description: Soubory ke stažení z úřednášek, výstupy pirátů
 keywords: jablonec nad nisou, ke stažení, download
 soubory:
+  - name: "Koaliční smlouva - 11.10.2018"
+    link: "/assets/pdf/koalicni_smlouva_final_final.pdf"
   - name: "Sociální bydlení - Úvod do problematiky"
     link: "/assets/pptx/Jablonec soc bydleni.pptx"
   - name: "Koncepce dostupného bydlení v Jablonci"

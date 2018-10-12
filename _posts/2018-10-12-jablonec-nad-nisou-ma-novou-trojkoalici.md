@@ -24,6 +24,8 @@ Trojkoalice se chce rovněž zaměřit na bezpečnost ve městě, a to předevš
 
 >„Rozhodl jsem se podpořit tuto koalici, protože věřím, že má podpora pomůže optimalizovat chod jablonecké nemocnice,“ dodává k podpisu koaliční smlouvy zvolený zastupitel lékař Michael Vraný.
 
+[Koaliční smlouva ke stažení ve formátu PDF](/assets/pdf/koalicni_smlouva_final_final.pdf)
+
 #### Kontakty pro média: ####
 
 HNUTÍ ANO: Milan Kroupa, tel.: 775 598 450, e-mail: milan.kroupa@grepa.cz
