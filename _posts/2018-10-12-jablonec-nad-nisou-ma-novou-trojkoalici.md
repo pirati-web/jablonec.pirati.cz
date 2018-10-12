@@ -3,7 +3,7 @@ date: 2018-10-12
 category: blog
 tags: koalice trojkoalice jablonec nad nisou komunální volby
 layout: post
-title: Jablonec nad nisou má novou trojkoalici. ANO, Piráti a Společně pro Jablonec podepsali ve čtvrtek 11. října koaliční smlouvu
+title: Jablonec nad Nisou má novou trojkoalici. ANO, Piráti a Společně pro Jablonec podepsali ve čtvrtek 11. října koaliční smlouvu
 author: Jan Polák
 authorId: jan.polak    # uid nekoho z _people (nepoviné)
 image: posts/2018-10-12-jablonec-nad-nisou-ma-novou-trojkoalici.jpg
