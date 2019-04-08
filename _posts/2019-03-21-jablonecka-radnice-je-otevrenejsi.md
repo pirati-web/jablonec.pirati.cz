@@ -8,7 +8,7 @@ author: Jan Lehký
 authorId: jan.lehky    # uid nekoho z _people (nepoviné)
 image: posts/2019-03-21-jablonecka-radnice-je-otevrenejsi.jpg
 ---
-Piráti slibovali transparentní správu města. Jedním z dobrých nástrojů je [rozklikávací rozpočet](http://rozpocet.mestojablonec.cz/greportviewer/){:target="_blank"}, který se již podařilo zrealizovat. Dalším opatřením je změna jednacího řádu výborů, která je připravena do březnového zasedání zastupitelstva.  
+Piráti slibovali transparentní správu města. Jedním z dobrých nástrojů je [rozklikávací rozpočet](http://rozpocet.mestojablonec.cz/greportviewer/){:target="_blank"}, který se již podařilo zrealizovat. Dalším opatřením je změna jednacího řádu výborů, která se připravuje do nejbližsího zasedání zastupitelstva.  
 
 >“Rozklikávací rozpočet je webová prezentace, která je od března umístěna na stránky města. Má intuitivní ovládání a provede uživatele přehledně rozpočtem města i jeho skutečnými příjmy a výdaji. Položky jsou v rozklikávacím rozpočtu graficky členěny podle druhu,” uvádí předsedkyně finančního výboru Jarmila Valešová.
 
