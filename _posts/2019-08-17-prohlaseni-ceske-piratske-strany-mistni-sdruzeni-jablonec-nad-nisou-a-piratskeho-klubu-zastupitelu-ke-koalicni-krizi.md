@@ -6,7 +6,7 @@ layout: post
 title: Prohlášení České pirátské strany - Místní sdružení Jablonec nad Nisou a pirátského klubu zastupitelů ke koaliční krizi  
 author: Jakub Chuchlík  
 authorId: jakub.chuchlik  
-image: posts/2019-08-17-prohlaseni-ceske-piratske-strany-mistni-sdruzeni-jablonec-nad-nisou-a-piratskeho-klubu-zastupitelu-ke-koalicni-krizi.jpg  
+image: posts/2019-08-17-prohlaseni-ceske-piratske-strany-mistni-sdruzeni-jablonec-nad-nisou.jpg  
 ---  
 Čtvrteční mimořádné zastupitelstvo velmi zkomplikovalo politickou situaci. Rozhodnutím zastupitelů za ANO, ODS a Starosty byli odvoláni z funkcí koaliční kolegové náměstek Štěpán Matek a radní Petr Klápště.
 
