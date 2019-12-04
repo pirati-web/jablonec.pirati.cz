@@ -5,6 +5,8 @@ fullname: Jan Polák  	# jméno s tituly etc.
 category:
   - pms
   - kandidat-obec
+  - zastupitele
+ordzast: 4
 ordpms: 1
 description:
   světoběžník, podnikatel<br/>

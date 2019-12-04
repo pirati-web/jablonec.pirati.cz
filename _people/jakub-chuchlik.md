@@ -7,6 +7,8 @@ titles:
 category:
   - neclenove
   - kandidat-obec
+  - zastupitele
+ordzast: 1
 ordneclenove: 2
 description: architekt a urbanista
 img: people/jakub-chuchlik.jpg # zakomentuj radek dokud není fotka

@@ -7,6 +7,8 @@ titles:
 category:
   - clenove
   - kandidat-obec
+  - zastupitele
+ordzast: 2
 ordclenove: 1
 description: právník a podnikatel
 img: people/jaroslav-sida.jpg # zakomentuj radek dokud není fotka

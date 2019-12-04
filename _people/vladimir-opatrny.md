@@ -7,6 +7,8 @@ titles:
 category:
   - kandidat-obec
   - neclenove
+  - zastupitele
+ordzast: 3  
 ordneclenove: 1
 description: knihkupec, podnikatel
 img: people/vladimir-opatrny.jpg # zakomentuj radek dokud není fotka

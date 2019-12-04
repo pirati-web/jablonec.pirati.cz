@@ -8,6 +8,8 @@ titles:
 category:
   - clenove
   - kandidat-obec
+  - zastupitele
+ordzast: 5  
 ordclenove: 1
 description: ekonomka
 img: people/jarmila-valesova.jpg # zakomentuj radek dokud není fotka
