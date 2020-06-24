@@ -21,10 +21,10 @@ profiles:
   #twitter: https://twitter.com/uzivatel.na.twitteru
 ---
 
-35 let, ekonomka, podnikatelka
+37 let, ekonomka, podnikatelka
 
-členka České pirátské strany
+členka České pirátské strany, zastupitelka v Jablonci nad Nisou
 
-matka dvou dcer
+matka tří dětí
 
 

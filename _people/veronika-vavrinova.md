@@ -6,7 +6,7 @@ category:
   - pms
   - kandidat-obec
   - kontaktni_osoba  
-ordpms: 3
+ordpms: 2
 description: 
   konzultant v telekomunikacích<br/>
   místopředseda MS Jablonec n.N.
