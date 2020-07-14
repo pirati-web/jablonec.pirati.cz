@@ -1,8 +1,8 @@
 ---
-layout: communal-elections
-title: Komunální volby v Jablonci nad Nisou
+layout: program_a_zastupitele
+title: Komunální politika v Jablonci nad Nisou
 campaignCategoryUid: jablonec2018
-candidateListUid: radnice # uid z `_candidates/radnice.md`
+candidateListUid: zastupitele # uid z `_candidates/radnice.md`
 ---
 <!---
 <div class="pce-im-teaser-big">

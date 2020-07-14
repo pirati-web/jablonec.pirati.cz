@@ -6,5 +6,7 @@
   campaigns:
     - title: Program na radnici   # individual campaigns within the group
       categoryUid: jablonec2018
+    - title: Zastupitelé na radnici   # individual campaigns within the group
+      categoryUid: zastupitele
     #- title: Senát
     #  categoryUid: senat
