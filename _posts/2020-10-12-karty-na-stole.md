@@ -6,7 +6,7 @@ layout: post
 title: Karty na stole
 author: Jaroslav Šída
 authorId: jaroslav.sida
-image: posts/2020-10-12-karty-na-stole.jpg
+image: posts/2020-10-12-karty-na-stole_2.jpg
 ---
 Z tváří politiků ODS čišela nespokojenost a únava, ANO si drželo vlastní linku (tuze odlišnou od vůle koaličního partnera z ODS) a Starostové se jako obvykle tvářili, že se jich to tak trochu netýká. O čem je řeč? A proč pan primátor Čeřovský (ODS) svolával v době nouzové stavu 30 zastupitelů do jedné místnosti na mimořádné zastupitelstvo?
 
