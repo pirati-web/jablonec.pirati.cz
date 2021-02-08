@@ -11,7 +11,7 @@ category:
   - zastupitele
 ordzast: 5  
 ordclenove: 1
-description: ekonomka
+description: ekonomka, zastupitelka
 img: people/jarmila-valesova.jpg # zakomentuj radek dokud není fotka
 mail:
   - jarmila.valesova@pirati.cz
@@ -23,8 +23,6 @@ profiles:
 
 37 let, ekonomka, podnikatelka
 
-členka České pirátské strany, zastupitelka v Jablonci nad Nisou
+členka České pirátské strany, zastupitelka v Jablonci nad Nisou, zastupitelka Libereckého kraje
 
 matka tří dětí
-
-

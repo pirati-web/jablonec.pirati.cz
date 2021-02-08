@@ -5,12 +5,12 @@ fullname: Mgr. Jaroslav Šída   	# jméno s tituly etc.
 titles:
   before: Mgr.
 category:
-  - clenove
+  - pms
   - kandidat-obec
   - zastupitele
 ordzast: 2
-ordclenove: 1
-description: právník a podnikatel
+ordpms: 1
+description: právník a podnikatel, předseda MS
 img: people/jaroslav-sida.jpg # zakomentuj radek dokud není fotka
 mail:
   - jaroslav.sida@pirati.cz
@@ -22,6 +22,6 @@ profiles:
 
 39 let, právník a podnikatel, správce a spolumajitel pivovaru
 
-člen Pirátské strany
+člen Pirátské strany, předseda místního sdružení Jabblonec nad Nisou
 
 otec dvou dětí

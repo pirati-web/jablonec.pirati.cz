@@ -1,15 +1,13 @@
 ---
-uid: veronika.vavrinova
-name:     Veronika Vavřinová   	# běžně používáné jméno
-fullname: Veronika Vavřinová   	# jméno s tituly etc.
+uid: veronika.drapalikova
+name:     Veronika Drápalíková   	# běžně používáné jméno
+fullname: Veronika Drápalíková   	# jméno s tituly etc.
 category:
-  - pms
+  - clenove
   - kandidat-obec
   - kontaktni_osoba  
-ordpms: 2
 description: 
-  konzultant v telekomunikacích<br/>
-  místopředseda MS Jablonec n.N.
+  konzultant v telekomunikacích na mateřské dovolené
 img: people/veronika-vavrinova.jpg # zakomentuj radek dokud není fotka
 mail:
   - veronika.vavrinova@pirati.cz
@@ -21,8 +19,6 @@ profiles:
 
 28 let, konzultantka
 
-členka České pirátské strany, místopředsdkyně MS Jablonec n. N.
+členka České pirátské strany, na mateřské dovolené
 
-matka syna
-
-
+matka dvou dětí

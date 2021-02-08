@@ -6,12 +6,9 @@ titles:
   before: Bc.
 category:
   - clenove
-  - pms
   - kandidat-obec
-ordpms: 3
 ordclenove: 12
-description: inspektor ČIŽP<br>
-  místopředseda MS Jablonec n.N.
+description: inspektor ČIŽP
 img: people/jan-lehky.jpg # zakomentuj radek dokud není fotka
 mail:
   - jan.lehky@pirati.cz
@@ -23,4 +20,4 @@ profiles:
 
 41 let, inspektor České inspekce životního prostředí
 
-člen České pirátské strany, místopředseda MS Jablonec nad Nisou
+člen České pirátské strany

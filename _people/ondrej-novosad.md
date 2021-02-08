@@ -8,10 +8,9 @@ category:
   - pms
   - kandidat-obec
   - kontaktni_osoba
-ordpms: 1
+ordpms: 3
 description: 
-  architekt a urbanista<br/>
-  předseda MS Jablonec n.N.
+  architekt a urbanista, místopředseda MS
 img: people/ondrej-novosad.jpg # zakomentuj radek dokud není fotka
 mail:
   - ondrej.novosad@pirati.cz
@@ -21,8 +20,8 @@ profiles:
   #twitter: https://twitter.com/uzivatel.na.twitteru
 ---
 
-35 let, architekt a urbanista
+37 let, architekt a urbanista
 
-člen České pirátské strany, předseda MS Jablonec n. N.
+člen České pirátské strany, míspředseda MS Jablonec n. N.
 
-otec dvou synů
+otec tří dětí
