@@ -4,8 +4,8 @@ category: blog
 tags: zastavení výstavby terminálu MHD článek nevyšel měsíčník
 layout: post
 title: Nevhodné názory
-author: Jan Picko
-authorId: jan.picko
+author: Vladimír Opatrný
+authorId: vladimir.opatrny
 #authorId: jakub.chuchlik
 image: posts/2021-02-24-nevhodne-nazory.jpg
 ---
