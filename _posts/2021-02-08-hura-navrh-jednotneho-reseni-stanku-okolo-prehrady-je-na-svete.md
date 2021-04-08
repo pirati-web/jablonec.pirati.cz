@@ -4,8 +4,8 @@ category: blog
 tags: architektonický jednotný návrh stánky přehrada
 layout: post
 title: Hurá! Návrh jednotného řešení stánků okolo přehrady je na světě
-author: Jan Picko
-#authorId: jakub.chuchlik
+author: Jakub Chuchlík
+authorId: jakub.chuchlik
 image: posts/2021-02-08-hura-navrh-jednotneho-reseni-stanku-okolo-prehrady-je-na-svete.jpg
 ---
 Jablonec má konečně architektonický návrh jednotného řešení drobných objektů hygienického a gastronomického zázemí v okolí přehrady. Vznikl o rok později, než měl vzniknout a neřeší všechna místa, která je nutné vyřešit, ale je na světě. Město se tedy může pustit do potřebného zlepšení uživatelské standardu i estetické kvality toalet, sprch, stánků a dalších služeb v okolí této nejcennější rekreační oblasti města. O to se Piráti od svého zvolení na jabloneckou radnici zasazovali. Cesta k návrhu měla ale překvapivou zápletku.

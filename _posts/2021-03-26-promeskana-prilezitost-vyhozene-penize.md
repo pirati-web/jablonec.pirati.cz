@@ -6,7 +6,7 @@ layout: post
 title: Promeškaná příležitost – vyhozené peníze
 author: Jarmila Valešová
 authorId: jarmila.valesova
-image: posts/2021-03-26-promeskana-prilezitost-vyhozene-penize.jpg
+image: posts/2021-03-26-promeskana-prilezitost-vyhozene-penize_2.jpg
 ---
 Dne 19. 10. 2020 schválilo vedení města financování investiční akce opravy bytových jednotek města dlouhodobým úvěrem ve výši 20 mil Kč. Pro tento úvěr získalo 6. 11. 2020 závaznou nabídku pevné úrokové míry 0,77 % p. a.  Celkové úrokové náklady při desetiletém čerpání by tedy vycházely na 787 tis. Kč.
 
