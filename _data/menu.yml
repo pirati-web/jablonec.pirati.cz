@@ -25,6 +25,9 @@ main:
   - link: /kontakt/
     name: Kontakt
     match: kontakt
+  - link: /prohlaseni-kandidatura-tulpa/
+    name: Volby 2021
+    match: prohlaseni-kandidatura-tulpa
 
 bottom:
   - class: small-12 medium-4
