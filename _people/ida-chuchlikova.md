@@ -5,7 +5,6 @@ fullname: MgA. Ida Chuchlíková   	# jméno s tituly etc.
 titles:
   before: MgA.
 category:
-  - clenove
   - kandidat-obec
 ordpms: 10
 ordclenove: 10

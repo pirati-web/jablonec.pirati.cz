@@ -3,7 +3,6 @@ uid: petr.bukvic
 name:     Petr Bukvic   	# běžně používáné jméno
 fullname: Petr Bukvic   	# jméno s tituly etc.
 category:
-  - clenove
   - kandidat-obec
 ordpms: 8
 ordclenove: 8

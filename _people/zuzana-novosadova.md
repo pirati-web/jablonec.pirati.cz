@@ -5,7 +5,6 @@ fullname:  Ing. arch. Zuzana Novosadová   	# jméno s tituly etc.
 titles:
   before: Ing. arch.
 category:
-  - clenove
   - kandidat-obec
 ordpms: 14
 ordclenove: 14
